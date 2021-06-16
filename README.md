@@ -56,7 +56,7 @@ This project comes with a few handy commands for linting and code fixing. The mo
 
 ### `yarn run dev`
 
-Run in the project locally.
+Run in the project locally. 
 
 ### `yarn run build`
 
@@ -78,5 +78,13 @@ Removes all dependencies, scripts and data from the installation script.
 - [ ] [add i18n](https://github.com/contentful-userland/gatsby-contentful-starter/issues/6)
 
 ## Other resources
+
+https://www.genmedicare.com/fildena-100
+https://www.genmedicare.com/cenforce-100-mg-tablet
+https://www.genmedicare.com/vidalista-20-mg-tablet
+https://www.genmedicare.com/aurogra-100-mg
+https://www.genmedicare.com/vidalista-60-mg-tablet
+https://www.genmedicare.com/fildena-150-mg-tablet
+https://www.genmedicare.com/cenforce-200-mg-tablet
 
 - Tutorial video series ["Building a blazing fast website with GatsbyJS and Contentful"](https://www.youtube.com/watch?v=Ek4o40w1tH4&list=PL8KiuH6vpACV-F7jXribe4YveGBhBeG9A) by @Khaledgarbaya
